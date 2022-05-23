@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\BranchingAs\BranchingAs\bin\Debug\BranchingAs.exe.config
+C:\Users\Nat's PC\source\repos\BranchingAs\BranchingAs\bin\Debug\BranchingAs.exe
+C:\Users\Nat's PC\source\repos\BranchingAs\BranchingAs\bin\Debug\BranchingAs.pdb
+C:\Users\Nat's PC\source\repos\BranchingAs\BranchingAs\obj\Debug\BranchingAs.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\BranchingAs\BranchingAs\obj\Debug\BranchingAs.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\BranchingAs\BranchingAs\obj\Debug\BranchingAs.exe
+C:\Users\Nat's PC\source\repos\BranchingAs\BranchingAs\obj\Debug\BranchingAs.pdb

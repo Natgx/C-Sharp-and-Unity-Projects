@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\drAssignment\drAssignment\bin\Debug\drAssignment.exe.config
+C:\Users\Nat's PC\source\repos\drAssignment\drAssignment\bin\Debug\drAssignment.exe
+C:\Users\Nat's PC\source\repos\drAssignment\drAssignment\bin\Debug\drAssignment.pdb
+C:\Users\Nat's PC\source\repos\drAssignment\drAssignment\obj\Debug\drAssignment.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\drAssignment\drAssignment\obj\Debug\drAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\drAssignment\drAssignment\obj\Debug\drAssignment.exe
+C:\Users\Nat's PC\source\repos\drAssignment\drAssignment\obj\Debug\drAssignment.pdb
