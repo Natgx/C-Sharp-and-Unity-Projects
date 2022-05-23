@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\ConsoleAppAs\ConsoleAppAs\bin\Debug\ConsoleAppAs.exe.config
+C:\Users\Nat's PC\source\repos\ConsoleAppAs\ConsoleAppAs\bin\Debug\ConsoleAppAs.exe
+C:\Users\Nat's PC\source\repos\ConsoleAppAs\ConsoleAppAs\bin\Debug\ConsoleAppAs.pdb
+C:\Users\Nat's PC\source\repos\ConsoleAppAs\ConsoleAppAs\obj\Debug\ConsoleAppAs.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\ConsoleAppAs\ConsoleAppAs\obj\Debug\ConsoleAppAs.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\ConsoleAppAs\ConsoleAppAs\obj\Debug\ConsoleAppAs.exe
+C:\Users\Nat's PC\source\repos\ConsoleAppAs\ConsoleAppAs\obj\Debug\ConsoleAppAs.pdb
