@@ -1,0 +1,38 @@
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\bin\Debug\netcoreapp3.1\Song Web.exe
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\bin\Debug\netcoreapp3.1\Song Web.deps.json
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\bin\Debug\netcoreapp3.1\Song Web.runtimeconfig.json
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\bin\Debug\netcoreapp3.1\Song Web.runtimeconfig.dev.json
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\bin\Debug\netcoreapp3.1\Song Web.dll
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\bin\Debug\netcoreapp3.1\Song Web.pdb
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\bin\Debug\netcoreapp3.1\Song Web.Views.dll
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\bin\Debug\netcoreapp3.1\Song Web.Views.pdb
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.AssemblyInfoInputs.cache
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.AssemblyInfo.cs
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.RazorAssemblyInfo.cache
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.RazorAssemblyInfo.cs
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\staticwebassets\Song Web.StaticWebAssets.Manifest.cache
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\staticwebassets\Song Web.StaticWebAssets.xml
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\Song Web.styles.css
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.TagHelpers.input.cache
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.TagHelpers.output.cache
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.RazorCoreGenerate.cache
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.RazorTargetAssemblyInfo.cache
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.RazorTargetAssemblyInfo.cs
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.Views.pdb
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.dll
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.pdb
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.genruntimeconfig.cache
+C:\Users\Nat's PC\Desktop\Basic_C#_Programs\Song Web\Song Web\obj\Debug\netcoreapp3.1\Song Web.csproj.CopyComplete

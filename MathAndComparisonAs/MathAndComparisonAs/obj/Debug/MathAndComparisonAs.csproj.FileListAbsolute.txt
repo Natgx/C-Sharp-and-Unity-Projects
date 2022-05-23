@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\MathAndComparisonAs\MathAndComparisonAs\bin\Debug\MathAndComparisonAs.exe.config
+C:\Users\Nat's PC\source\repos\MathAndComparisonAs\MathAndComparisonAs\bin\Debug\MathAndComparisonAs.exe
+C:\Users\Nat's PC\source\repos\MathAndComparisonAs\MathAndComparisonAs\bin\Debug\MathAndComparisonAs.pdb
+C:\Users\Nat's PC\source\repos\MathAndComparisonAs\MathAndComparisonAs\obj\Debug\MathAndComparisonAs.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\MathAndComparisonAs\MathAndComparisonAs\obj\Debug\MathAndComparisonAs.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\MathAndComparisonAs\MathAndComparisonAs\obj\Debug\MathAndComparisonAs.exe
+C:\Users\Nat's PC\source\repos\MathAndComparisonAs\MathAndComparisonAs\obj\Debug\MathAndComparisonAs.pdb
