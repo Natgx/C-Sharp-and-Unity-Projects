@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\ArraysAs\ArraysAs\bin\Debug\ArraysAs.exe.config
+C:\Users\Nat's PC\source\repos\ArraysAs\ArraysAs\bin\Debug\ArraysAs.exe
+C:\Users\Nat's PC\source\repos\ArraysAs\ArraysAs\bin\Debug\ArraysAs.pdb
+C:\Users\Nat's PC\source\repos\ArraysAs\ArraysAs\obj\Debug\ArraysAs.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\ArraysAs\ArraysAs\obj\Debug\ArraysAs.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\ArraysAs\ArraysAs\obj\Debug\ArraysAs.exe
+C:\Users\Nat's PC\source\repos\ArraysAs\ArraysAs\obj\Debug\ArraysAs.pdb
