@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\MainMethodAs\MainMethodAs\obj\Debug\MainMethodAs.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\MainMethodAs\MainMethodAs\obj\Debug\MainMethodAs.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\MainMethodAs\MainMethodAs\bin\Debug\MainMethodAs.exe.config
+C:\Users\Nat's PC\source\repos\MainMethodAs\MainMethodAs\bin\Debug\MainMethodAs.exe
+C:\Users\Nat's PC\source\repos\MainMethodAs\MainMethodAs\bin\Debug\MainMethodAs.pdb
+C:\Users\Nat's PC\source\repos\MainMethodAs\MainMethodAs\obj\Debug\MainMethodAs.exe
+C:\Users\Nat's PC\source\repos\MainMethodAs\MainMethodAs\obj\Debug\MainMethodAs.pdb
