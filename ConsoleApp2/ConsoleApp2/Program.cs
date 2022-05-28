@@ -12,22 +12,20 @@ namespace ConsoleApp2
         {
 
             // START OF STEP 1
-            string[] stringArray = new string[5];
-            Console.WriteLine("Type in a text to put in the array.");
-            string putArray = Console.ReadLine();
-
-
-            for(int i = 0; i < 5; i++)
+            string[] stringArray = new string[] { "This", "is", "a", "string" };
+            Console.WriteLine("Please input a text to add to each word in the array: ");
+            string addedWord = Console.ReadLine();
+            for (int i = 0; i < stringArray.Length; i++)
             {
-                stringArray[i] = putArray;
-                Console.WriteLine("Add another text until you have added five texts.");
-                putArray = Console.ReadLine();
+                stringArray[i] += addedWord;
             }
-            for(int i = 0; i < stringArray.Length; i++)
+            Console.WriteLine("\n");
+            Console.WriteLine("Here are the new contents of the array: ");
+            foreach (string each in stringArray)
             {
-                Console.WriteLine(stringArray[i]);
+                Console.WriteLine(each);
             }
-             Console.ReadLine();
+            Console.ReadLine();
             // END OF STEP 1
 
             // START OF STEP 2
@@ -53,14 +51,14 @@ namespace ConsoleApp2
 
             // START OF STEP 3
             string[] stringArray1 = { "Nat", "Tan", "Mat", "Ton" };
-            for(int i = 0; i < 3; i++)
+            for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine(stringArray1[i]);
             }
             Console.ReadLine();
 
             int[] intArray = { 1, 2, 3, 4, 5 };
-            for(int n = 0; n <= 2; n++)
+            for (int n = 0; n <= 2; n++)
             {
                 Console.WriteLine(intArray[n]);
             }
@@ -95,51 +93,51 @@ namespace ConsoleApp2
             // END OF STEP 4
 
             // START OF STEP 5
-            List<string> stringList1 = new List<string> { "This", "list", "of", "strings", "is", "strings" };
-            Console.WriteLine("Pick a text from this list of strings(follow the capitalization): \n 1.This\n 2.list \n 3.of \n 4.strings \n 5.is \n 6.strings");
-            string stringPicked1 = Console.ReadLine();
-            bool trueOrFalse1 = false;
-            foreach (string pick in stringList1)
-                while (!trueOrFalse1)
+            List<string> stringList1 = new List<string> { "This", "list", "is", "a", "string", "list" };
+            Console.WriteLine("Pick a word from these choices(Follow the capitalization):");
+            foreach (string each in stringList1)
+            {
+                Console.WriteLine("- " + each);
+            }
+            Console.WriteLine("What is your choice:");
+            string choice = Console.ReadLine();
+            if (!stringList1.Contains(choice))
+            {
+                Console.WriteLine("Please choose from the choices above and follow the right capitalization.");
+            }
+            else
+            {
+
+
+                for (int i = 0; i < stringList1.Count; i++)
                 {
+                    if (choice == stringList1[i])
                     {
-                        if (stringPicked1 == "This" || stringPicked1 == "list" || stringPicked1 == "of" || stringPicked1 == "strings" || stringPicked1 == "is" || stringPicked1 == "unique")
-                        {
-                            if (stringPicked1 != "strings")
-                            {
-                                Console.WriteLine("The index of the string you picked in the list is: " + stringList1.IndexOf(stringPicked1));
-                                trueOrFalse1 = true;
-                                break;
-                            }
-                            else if(stringPicked1 == "strings")
-                            {
-                                Console.WriteLine("The indeces of the string you picked is: " + stringList1.IndexOf(stringPicked1) + " and " + stringList1.LastIndexOf(stringPicked1));
-                                trueOrFalse1 = true;
-                                break;
-                            }
-                        }
-                        else
-                        {
-                            Console.WriteLine("Please only pick one of the choices listed above, make sure your capitalization is right.\n Please pick again:");
-                            stringPicked1 = Console.ReadLine();
-                            break;
-                        }
+                        Console.WriteLine("The index of your chosen word in the list is: " + stringList1.IndexOf(choice));
+                    }
+                    else if (choice == "list")
+                    {
+                        Console.WriteLine("The indeces of your chosen word in the list is: " + stringList1.IndexOf(choice) + " and " + stringList1.LastIndexOf(choice));
+                        break;
                     }
                 }
+            }
             Console.ReadLine();
             // END OF STEP 5
 
-            // START OF STEP 6 (Not sure about this one, I feel that this has a mistake)
-            List<string> stringList2 = new List<string>() {"Hello", "Hi", "Hello"};
-            foreach(string find in stringList2)
+            // START OF STEP 6
+            List<string> stringList2 = new List<string> { "Oh", "no", "Oh" };
+            List<string> stringList3 = new List<string> { };
+            foreach (string each in stringList2)
             {
-                if(find == "Hello")
+                if (stringList3.Contains(each))
                 {
-                    Console.WriteLine("This \"Hello\" appeared in the list 2 times.");
+                    Console.WriteLine("This has appeared in the list already");
                 }
-                else if(find == stringList2[1])
+                else
                 {
-                    Console.WriteLine("This is the first time \"Hi\" appeared in the list.");
+                    Console.WriteLine("This has not appeared in the list yet.");
+                    stringList3.Add(each);
                 }
             }
             Console.ReadLine();
