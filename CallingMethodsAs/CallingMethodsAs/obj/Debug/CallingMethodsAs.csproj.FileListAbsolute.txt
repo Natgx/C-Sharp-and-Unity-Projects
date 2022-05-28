@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\CallingMethodsAs\CallingMethodsAs\bin\Debug\CallingMethodsAs.exe.config
+C:\Users\Nat's PC\source\repos\CallingMethodsAs\CallingMethodsAs\bin\Debug\CallingMethodsAs.exe
+C:\Users\Nat's PC\source\repos\CallingMethodsAs\CallingMethodsAs\bin\Debug\CallingMethodsAs.pdb
+C:\Users\Nat's PC\source\repos\CallingMethodsAs\CallingMethodsAs\obj\Debug\CallingMethodsAs.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\CallingMethodsAs\CallingMethodsAs\obj\Debug\CallingMethodsAs.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\CallingMethodsAs\CallingMethodsAs\obj\Debug\CallingMethodsAs.exe
+C:\Users\Nat's PC\source\repos\CallingMethodsAs\CallingMethodsAs\obj\Debug\CallingMethodsAs.pdb
