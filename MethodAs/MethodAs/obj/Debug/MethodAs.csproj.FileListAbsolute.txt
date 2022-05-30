@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\MethodAs\MethodAs\bin\Debug\MethodAs.exe.config
+C:\Users\Nat's PC\source\repos\MethodAs\MethodAs\bin\Debug\MethodAs.exe
+C:\Users\Nat's PC\source\repos\MethodAs\MethodAs\bin\Debug\MethodAs.pdb
+C:\Users\Nat's PC\source\repos\MethodAs\MethodAs\obj\Debug\MethodAs.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\MethodAs\MethodAs\obj\Debug\MethodAs.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\MethodAs\MethodAs\obj\Debug\MethodAs.exe
+C:\Users\Nat's PC\source\repos\MethodAs\MethodAs\obj\Debug\MethodAs.pdb
