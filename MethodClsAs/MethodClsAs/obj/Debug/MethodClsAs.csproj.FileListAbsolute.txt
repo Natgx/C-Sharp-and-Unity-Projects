@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\MethodClsAs\MethodClsAs\bin\Debug\MethodClsAs.exe.config
+C:\Users\Nat's PC\source\repos\MethodClsAs\MethodClsAs\bin\Debug\MethodClsAs.exe
+C:\Users\Nat's PC\source\repos\MethodClsAs\MethodClsAs\bin\Debug\MethodClsAs.pdb
+C:\Users\Nat's PC\source\repos\MethodClsAs\MethodClsAs\obj\Debug\MethodClsAs.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\MethodClsAs\MethodClsAs\obj\Debug\MethodClsAs.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\MethodClsAs\MethodClsAs\obj\Debug\MethodClsAs.exe
+C:\Users\Nat's PC\source\repos\MethodClsAs\MethodClsAs\obj\Debug\MethodClsAs.pdb
