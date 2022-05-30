@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\MethodAndObjAs\MethodAndObjAs\bin\Debug\MethodAndObjAs.exe.config
+C:\Users\Nat's PC\source\repos\MethodAndObjAs\MethodAndObjAs\bin\Debug\MethodAndObjAs.exe
+C:\Users\Nat's PC\source\repos\MethodAndObjAs\MethodAndObjAs\bin\Debug\MethodAndObjAs.pdb
+C:\Users\Nat's PC\source\repos\MethodAndObjAs\MethodAndObjAs\obj\Debug\MethodAndObjAs.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\MethodAndObjAs\MethodAndObjAs\obj\Debug\MethodAndObjAs.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\MethodAndObjAs\MethodAndObjAs\obj\Debug\MethodAndObjAs.exe
+C:\Users\Nat's PC\source\repos\MethodAndObjAs\MethodAndObjAs\obj\Debug\MethodAndObjAs.pdb
