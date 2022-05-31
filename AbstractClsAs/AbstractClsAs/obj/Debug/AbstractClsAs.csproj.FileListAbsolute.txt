@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\AbstractClsAs\AbstractClsAs\bin\Debug\AbstractClsAs.exe.config
+C:\Users\Nat's PC\source\repos\AbstractClsAs\AbstractClsAs\bin\Debug\AbstractClsAs.exe
+C:\Users\Nat's PC\source\repos\AbstractClsAs\AbstractClsAs\bin\Debug\AbstractClsAs.pdb
+C:\Users\Nat's PC\source\repos\AbstractClsAs\AbstractClsAs\obj\Debug\AbstractClsAs.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\AbstractClsAs\AbstractClsAs\obj\Debug\AbstractClsAs.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\AbstractClsAs\AbstractClsAs\obj\Debug\AbstractClsAs.exe
+C:\Users\Nat's PC\source\repos\AbstractClsAs\AbstractClsAs\obj\Debug\AbstractClsAs.pdb
