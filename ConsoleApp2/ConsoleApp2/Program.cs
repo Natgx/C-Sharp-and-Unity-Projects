@@ -113,12 +113,7 @@ namespace ConsoleApp2
                 {
                     if (choice == stringList1[i])
                     {
-                        Console.WriteLine("The index of your chosen word in the list is: " + stringList1.IndexOf(choice));
-                    }
-                    else if (choice == "list")
-                    {
-                        Console.WriteLine("The indeces of your chosen word in the list is: " + stringList1.IndexOf(choice) + " and " + stringList1.LastIndexOf(choice));
-                        break;
+                        Console.WriteLine("The index of your chosen word in the list is: " + i);
                     }
                 }
             }
@@ -132,11 +127,11 @@ namespace ConsoleApp2
             {
                 if (stringList3.Contains(each))
                 {
-                    Console.WriteLine("This has appeared in the list already");
+                    Console.WriteLine("This has appeared in the list already: " + each);
                 }
                 else
                 {
-                    Console.WriteLine("This has not appeared in the list yet.");
+                    Console.WriteLine("This has not appeared in the list yet. " + each);
                     stringList3.Add(each);
                 }
             }
