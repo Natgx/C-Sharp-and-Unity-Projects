@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\TestZone2\TestZone2\bin\Debug\TestZone2.exe.config
+C:\Users\Nat's PC\source\repos\TestZone2\TestZone2\bin\Debug\TestZone2.exe
+C:\Users\Nat's PC\source\repos\TestZone2\TestZone2\bin\Debug\TestZone2.pdb
+C:\Users\Nat's PC\source\repos\TestZone2\TestZone2\obj\Debug\TestZone2.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\TestZone2\TestZone2\obj\Debug\TestZone2.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\TestZone2\TestZone2\obj\Debug\TestZone2.exe
+C:\Users\Nat's PC\source\repos\TestZone2\TestZone2\obj\Debug\TestZone2.pdb
