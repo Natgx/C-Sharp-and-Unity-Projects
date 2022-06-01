@@ -23,12 +23,12 @@ namespace AbstractClsAs
         }
         public static bool operator== (Employee Id, Employee Id2)
         {
-            bool truth = Id == Id2;
+            bool truth = Id.Id == Id2.Id;
             return truth;
         }
         public static bool operator!= (Employee Id, Employee Id2)
         {
-            bool whut = Id != Id2;
+            bool whut = Id.Id != Id2.Id;
             return whut;
         }
     }
