@@ -10,8 +10,8 @@ namespace AbstractClsAs
     {
         public override void SayName()
         {
-            Console.WriteLine("Here is the full name of one of the employees:");
-            base.SayName();
+            Console.WriteLine("Here is the full name of one of the employee:");
+            Console.WriteLine(firstName + lastName);
         }
         
         public void Quit()

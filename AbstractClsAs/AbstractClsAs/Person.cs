@@ -11,9 +11,9 @@ namespace AbstractClsAs
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        public virtual void SayName()
-        {
-            Console.WriteLine(firstName + lastName);
-        }
+        public abstract void SayName();
+        
+
+        
     }
 }
