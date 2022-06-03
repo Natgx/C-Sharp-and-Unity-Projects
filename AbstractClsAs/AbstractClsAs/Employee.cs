@@ -9,8 +9,8 @@ namespace AbstractClsAs
     public class Employee : Person, IQuittable
     {
         public int Id { get; set; }
-        
-        
+
+        // public List<T> things { get; set; }
         public override void SayName()
         {
             Console.WriteLine("Here is the full name of one of the employees:");
