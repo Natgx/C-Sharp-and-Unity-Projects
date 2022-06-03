@@ -20,7 +20,7 @@ namespace AbstractClsAs
             // End of Polymorphism assignment
 
             // Overloading operators assignment
-            Employee person2 = new Employee() { firstName = "John ", lastName = "Cena", Id = 10 };
+            Employee person2 = new Employee() { firstName = "John ", lastName = "Cena ", Id = 5 };
             person2.SayName();
             Console.WriteLine("\nDo the ID's of these two employees stated above match?");
             bool truth = person.Id == person2.Id;
@@ -54,6 +54,46 @@ namespace AbstractClsAs
             {
                 Console.WriteLine("Please enter an actual day of the week.");
             }
+
+            // Start of Lambda Assignment
+            Employee person3 = new Employee() { firstName = "Nathaniel ", lastName = "Noel ", Id = 23 };
+            Employee person4 = new Employee() { firstName = "Pamela ", lastName = "Martinex ", Id = 15 };
+            Employee person5 = new Employee() { firstName = "Michael ", lastName = "Jackson ", Id = 24 };
+            Employee person6 = new Employee() { firstName = "Jacob ", lastName = "Borja ", Id = 25 };
+            Employee person7 = new Employee() { firstName = "Faye ", lastName = "Garley ", Id = 26 };
+            Employee person8 = new Employee() { firstName = "Ruby ", lastName = "Stone ", Id = 27 };
+            Employee person9 = new Employee() { firstName = "John ", lastName = "Stewart ", Id = 28 };
+            Employee person10 = new Employee() { firstName = "Joseph ", lastName = "Macarel ", Id = 29 };
+            List<Employee> empList = new List<Employee>() {person, person2, person3, person4, person5, person6, person7, person8, person9, person10 };
+            List<Employee> addedList = new List<Employee>();
+            Console.WriteLine("Here I show you employees with the first name \"John\" using a foreach loop:");
+            foreach(Employee pers in empList)
+            {
+                if(pers.firstName == "John ")
+                {
+                    addedList.Add(pers);
+                }
+            }
+            foreach(Employee emp in addedList)
+            {
+                Console.WriteLine(emp.firstName + emp.lastName + emp.Id);
+            }
+
+            Console.WriteLine("\nHere I show you employees with the first name \"John\" using a Lambda Expression:");
+            List<Employee> addedList2 = empList.Where(x => x.firstName == "John ").ToList();
+            foreach(Employee pers in addedList)
+            {
+                Console.WriteLine(pers.firstName + pers.lastName + pers.Id);
+            }
+
+            Console.WriteLine("\nHere I show you all employees with a Id number greater than 5 while also using a Lambda Expression:");
+            List<Employee> idList = empList.Where(x => x.Id > 5).ToList();
+            foreach(Employee emp in idList)
+            {
+                Console.WriteLine(emp.firstName + emp.lastName + emp.Id);
+            }
+            
+            // End of Lambda Assignment
             Console.ReadLine();
         }
         public enum DaysofTheWeek
