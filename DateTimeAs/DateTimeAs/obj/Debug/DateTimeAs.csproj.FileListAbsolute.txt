@@ -1,0 +1,7 @@
+C:\Users\Nat's PC\source\repos\DateTimeAs\DateTimeAs\bin\Debug\DateTimeAs.exe.config
+C:\Users\Nat's PC\source\repos\DateTimeAs\DateTimeAs\bin\Debug\DateTimeAs.exe
+C:\Users\Nat's PC\source\repos\DateTimeAs\DateTimeAs\bin\Debug\DateTimeAs.pdb
+C:\Users\Nat's PC\source\repos\DateTimeAs\DateTimeAs\obj\Debug\DateTimeAs.csproj.AssemblyReference.cache
+C:\Users\Nat's PC\source\repos\DateTimeAs\DateTimeAs\obj\Debug\DateTimeAs.csproj.CoreCompileInputs.cache
+C:\Users\Nat's PC\source\repos\DateTimeAs\DateTimeAs\obj\Debug\DateTimeAs.exe
+C:\Users\Nat's PC\source\repos\DateTimeAs\DateTimeAs\obj\Debug\DateTimeAs.pdb
